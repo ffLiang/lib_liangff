@@ -1,0 +1,3 @@
+DB文件夹下面为我们项目的数据库。
+Copy Of SimpleCSystem为我们项目的JAVA界面和具体功能实现的代码，用Eclipse Import一下即可。
+数据库项目文档文件中记录了项目的相关信息。

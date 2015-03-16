@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Archiver-Version: Plexus Archiver
+Created-By: Apache Maven
+Built-By: huxtable
+Build-Jdk: 1.6.0_17
+Implementation-Title: Sea Glass Look and Feel for Swing
+Implementation-Version: 0.1.7.2.2
+Implementation-Vendor-Id: com.seaglasslookandfeel
+Implementation-Vendor: seaglasslookandfeel.com
+
